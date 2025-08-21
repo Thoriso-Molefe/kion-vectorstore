@@ -1,0 +1,6 @@
+include kion_vectorstore/README.md
+include LICENSE
+include kion_vectorstore/.env
+include kion_vectorstore/static/chat.html
+include kion_vectorstore/static/file_loader_gui.html
+include kion_vectorstore/static/file_remover_gui.html
